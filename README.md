@@ -39,4 +39,4 @@ If there are no errors in the code, then the built files will be but in a new di
 
 ## Deployed For You To See
 
-A built version of the site has been deployed to github pages at https://github.com/keidson299/GameHub
+A built version of the site has been deployed to github pages at https://keidson299.github.io/GameHub/
